@@ -2,7 +2,6 @@ package com.liuji.main;
 
 import java.util.Scanner;
 
-@SuppressWarnings("resource")
 public class PrintSnake {
 
 	public static void main(String[] args) {
